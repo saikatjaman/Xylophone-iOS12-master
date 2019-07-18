@@ -6,3 +6,11 @@ The goal of this project is to dive into a simple iOS recipe - how to play sound
 
 # What you will create
 You will be making your first musical instrument! Musical apps are so popular on the App Store that they even get their own category. We’re going to make a colourful XyloPhone app. Get it? Ok, the jokes are bad, but remember, I only wrote the good ones ...
+
+# What you will learn
+* How to play sound using AVFoundation and AVAudioPlayer.
+* The ViewController lifecycle.
+* How to use tags in Interface Builder.
+* Error handling using try and catch.
+* Code refactoring.
+* Basic debugging for array index out of range errors.
